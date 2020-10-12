@@ -1,0 +1,20 @@
+TLE Entertainment
+
+team: DarkMei
+
+project_name: pwa
+
+reference:
+https://ithelp.ithome.com.tw/users/20103808/ironman/1389
+https://ithelp.ithome.com.tw/users/20071512/ironman/1222
+https://hackmd.io/@TSMI_E7ORNeP8YBbWm-lFA/BJrEtNecG?type=view
+https://ithelp.ithome.com.tw/articles/10188118
+https://developers.google.com/web/fundamentals/web-app-manifest
+https://wcc723.github.io/javascript/2017/12/21/javascript-es6-arrow-function/
+https://hackmd.io/HlQ3Ka0pR7CuT1yrdkm2RQ?view
+https://cythilya.github.io/2017/07/16/service-worker/
+https://pjchender.blogspot.com/2016/03/javascriptthisbug.html
+https://75.team/post/lifecycle.html
+https://cythilya.github.io/2017/07/16/service-worker/
+https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle?hl=zh-tw
+https://developer.mozilla.org/en-US/docs/Web/API/CacheStorage
